@@ -1,5 +1,7 @@
 # HandGestureRecognition
 A Python-based hand gesture recognition system using deep learning techniques. Detect and classify a variety of hand gestures in real-time using a webcam. Built with Tensor Flow and OpenCV. Contributions and feedback welcome!
+
+
 GUI:-
 ![Capture1](https://github.com/hitikabhatia4/HandGestureRecognition/assets/54341268/47bc50fb-f2c3-4e21-b6a7-5edafd32c1a0)
 
