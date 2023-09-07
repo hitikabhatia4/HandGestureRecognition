@@ -3,10 +3,12 @@ A Python-based hand gesture recognition system using deep learning techniques. D
 
 
 GUI:-
+
 ![Capture1](https://github.com/hitikabhatia4/HandGestureRecognition/assets/54341268/47bc50fb-f2c3-4e21-b6a7-5edafd32c1a0)
 
 Results
 A : Taking Images :
+
 ![Capture2](https://github.com/hitikabhatia4/HandGestureRecognition/assets/54341268/8a6c78d9-bbbb-416f-b1d6-a94772468244)
 
 Dataset Creation of specific gesture in data folder :
