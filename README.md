@@ -11,9 +11,11 @@ Dataset Creation of specific gesture in data folder :
 ![datacreation_folder](https://github.com/hitikabhatia4/HandGestureRecognition/assets/54341268/26392b09-0c8f-4408-9c93-0fbcddcb82c3)
 
 Creating Dataset :
+
 ![creating dataset](https://github.com/hitikabhatia4/HandGestureRecognition/assets/54341268/4710e521-4025-4a72-9c0f-d36ab79517f2)
 
 Training Dataset :
+
 ![Training dataset](https://github.com/hitikabhatia4/HandGestureRecognition/assets/54341268/4b592d84-4451-450d-93ea-ab183a67a935)
 
 Delete Gesture :
